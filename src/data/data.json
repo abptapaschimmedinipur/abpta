@@ -1,4 +1,5 @@
 {
+  "flag": true,
   "Header": {
     "title": "We are a Landing Page",
     "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
@@ -116,24 +117,24 @@
   ],
   "Team": [
     {
-      "img": "img/team/01.jpg",
-      "name": "John Doe",
+      "img": "img/team/dhruba.jpg",
+      "name": "Dhruvaseker mondal",
       "job": "Director"
     },
     {
-      "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "img": "img/team/sec_mem.jpg",
+      "name": "Sandip Ghosh",
+      "job": "Secretariate member"
     },
     {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "img": "img/team/gen-sec.jpg",
+      "name": "Samar Chakraborty",
+      "job": "Exe general secretary West bengal"
     },
     {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "img": "img/team/suman-adhikari.jpg",
+      "name": "Suman adhikari",
+      "job": "Secretariate member"
     }
   ],
   "Contact": {
