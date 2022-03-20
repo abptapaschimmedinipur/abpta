@@ -4,7 +4,7 @@
     "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Abpta largest organisation of primary teachers of India. It was established on 9th February in 1935. S wajid Ali  and  M Ahammed Hussain was the founder president and general secretary respectively. The main aim of our organisation is to save education and save childhood and universalisation of education",
     "Why": [
       "Lorem ipsum dolor",
       "Tempor incididunt",
@@ -20,59 +20,44 @@
   },
   "Gallery": [
     {
-      "title": "Project Title",
-      "largeImage": "img/gallery/img(71).jpg",
-      "smallImage": "img/gallery/img(71).jpg"
+      "title": "ABPTA",
+      "largeImage": "img/gallery/1.jpg",
+      "smallImage": "img/gallery/1.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/gallery/img(73).jpg",
-      "smallImage": "img/gallery/img(73).jpg"
+      "title": "ABPTA",
+      "largeImage": "img/gallery/2.jpg",
+      "smallImage": "img/gallery/2.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/gallery/img(87).jpg",
-      "smallImage": "img/gallery/img(87).jpg"
+      "title": "ABPTA",
+      "largeImage": "img/gallery/3.jpg",
+      "smallImage": "img/gallery/3.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/gallery/img(89).jpg",
-      "smallImage": "img/gallery/img(89).jpg"
+      "title": "ABPTA",
+      "largeImage": "img/gallery/4.jpg",
+      "smallImage": "img/gallery/4.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/gallery/img(92).jpg",
-      "smallImage": "img/gallery/img(92).jpg"
+      "title": "ABPTA",
+      "largeImage": "img/gallery/5.jpg",
+      "smallImage": "img/gallery/5.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/gallery/img(71).jpg",
-      "smallImage": "img/gallery/img(71).jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/gallery/img(71).jpg",
-      "smallImage": "img/gallery/img(71).jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/gallery/img(71).jpg",
-      "smallImage": "img/gallery/img(71).jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/gallery/img(71).jpg",
-      "smallImage": "img/gallery/img(71).jpg"
+      "title": "ABPTA",
+      "largeImage": "img/gallery/6.jpg",
+      "smallImage": "img/gallery/6.jpg"
     }
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa school",
+      "name": "Education",
+      "text": "To give proper education to the children"
     },
     {
-      "icon": "fa fa-cart-arrow-down",
+      "icon": "fa fa-school",
       "name": "Consectetur adipiscing",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     },
@@ -82,7 +67,7 @@
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     },
     {
-      "icon": "fa fa-language",
+      "icon": "fa fa-school",
       "name": "Consectetur adipiscing",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     },
@@ -155,7 +140,7 @@
     "address": "4321 California St, San Francisco, CA 12345 ",
     "phone": "+1 123 456 1234",
     "email": "info@company.com",
-    "facebook": "fb.com",
+    "facebook": "https://www.facebook.com/nikhilbangaprimaryteachersassociatian/",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
   },

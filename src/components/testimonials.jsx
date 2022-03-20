@@ -3,9 +3,12 @@ export const Testimonials = (props) => {
     <div id='testimonials'>
       <div className='container'>
         <div className='section-title text-center'>
-          <h2>What our clients say</h2>
+          <h2>What our member's say</h2>
+          <p>
+           Comming soon...
+          </p>
         </div>
-        <div className='row'>
+        {/* <div className='row'>
           {props.data
             ? props.data.map((d, i) => (
                 <div key={`${d.name}-${i}`} className='col-md-4'>
@@ -22,7 +25,7 @@ export const Testimonials = (props) => {
                 </div>
               ))
             : 'loading'}
-        </div>
+        </div> */}
       </div>
     </div>
   )

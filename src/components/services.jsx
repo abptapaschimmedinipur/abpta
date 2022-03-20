@@ -5,11 +5,10 @@ export const Services = (props) => {
         <div className='section-title'>
           <h2>Mission & Vision</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+            Comming soon...
           </p>
         </div>
-        <div className='row'>
+        {/* <div className='row'>
           {props.data
             ? props.data.map((d, i) => (
                 <div key={`${d.name}-${i}`} className='col-md-4'>
@@ -22,7 +21,7 @@ export const Services = (props) => {
                 </div>
               ))
             : 'loading'}
-        </div>
+        </div> */}
       </div>
     </div>
   )

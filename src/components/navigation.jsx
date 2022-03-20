@@ -20,7 +20,7 @@ export const Navigation = (props) => {
           </button>
           
           <a className='navbar-brand page-scroll' href='#page-top'>
-            <div className="row" style={{color: '#ddd'}}> <img src="img/abpta-logo.png"  className='logo' alt="" />
+            <div className="row" style={{color: '#ddd'}}> <img src="img/abpta_logo.png"  className='logo' alt="" />
           ABPTA</div>
          
           </a>

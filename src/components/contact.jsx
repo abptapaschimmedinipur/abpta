@@ -36,7 +36,7 @@ export const Contact = (props) => {
     <div>
       <div id='contact'>
         <div className='container'>
-          <div className='col-md-8'>
+          {/* <div className='col-md-8'>
             <div className='row'>
               <div className='section-title'>
                 <h2>Get In Touch</h2>
@@ -94,7 +94,7 @@ export const Contact = (props) => {
                 </button>
               </form>
             </div>
-          </div>
+          </div> */}
           <div className='col-md-3 col-md-offset-1 contact-info'>
             <div className='contact-item'>
               <h3>Contact Info</h3>
@@ -131,7 +131,7 @@ export const Contact = (props) => {
                       <i className='fa fa-facebook'></i>
                     </a>
                   </li>
-                  <li>
+                  {/* <li>
                     <a href={props.data ? props.data.twitter : '/'}>
                       <i className='fa fa-twitter'></i>
                     </a>
@@ -140,14 +140,14 @@ export const Contact = (props) => {
                     <a href={props.data ? props.data.youtube : '/'}>
                       <i className='fa fa-youtube'></i>
                     </a>
-                  </li>
+                  </li> */}
                 </ul>
               </div>
             </div>
           </div>
         </div>
       </div>
-      <div id='footer'>
+      {/* <div id='footer'>
         <div className='container text-center'>
           <p>
             &copy; 2020 Issaaf Kattan React Land Page Template. Design by{' '}
@@ -156,7 +156,7 @@ export const Contact = (props) => {
             </a>
           </p>
         </div>
-      </div>
+      </div> */}
     </div>
   )
 }

@@ -6,6 +6,7 @@ export const Features = (props) => {
           <h2>History</h2>
         </div>
         <div className='row'>
+        <h3>Coming Soon</h3>
           {/* {props.data
             ? props.data.map((d, i) => (
                 <div key={`${d.title}-${i}`} className='col-xs-6 col-md-3'>
@@ -16,8 +17,8 @@ export const Features = (props) => {
                 </div>
               ))
             : 'Loading...'} */}
-            <div className="about-text">
-              {/* <h2>History</h2> */}
+            {/* <div className="about-text">
+              <h2>History</h2>
               <p>{props.data ? props.data.paragraph : "loading..."}</p>
               <h3>Why Choose Us?</h3>
               <div className="list-style">
@@ -40,7 +41,7 @@ export const Features = (props) => {
                   </ul>
                 </div>
               </div>
-            </div>
+            </div> */}
         </div>
       </div>
     </div>
